@@ -1,0 +1,9 @@
+{
+	"name": "yogikondeboina19-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9c014987-7b83-4a03-8456-666e807404b4",
+		"tenantId": "90b59039-d7b6-4056-bd4a-0c8614d852a8"
+	}
+}
